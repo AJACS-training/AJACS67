@@ -106,6 +106,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 
 - 遺伝子発現データを公共DBで検索・取得・解析する方法について
     - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)
+    - [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
 
 - 非モデル生物のデータをモデル生物のデータに見立てるためのID対応表づくりについて
     - [「コマンドラインで遺伝子配列を解析する」（2012年7月）](http://motdb.dbcls.jp/?AJACS32%2Fbono)
@@ -319,10 +320,12 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
     - IDリストのほかタイムコースなどの複数リストデータも使用可能
     - 複数リスト間のアノテーションについて差分表示が可能
     - GOのエンリッチメント解析で階層的クラスタリングもできる
-    - 統合TV 作成中
-      - まだシステムが不安定(?)で大量クエリ投げると結果が帰ってこない場合もある
+    - 統合TV あります → [Metascapeを使って、遺伝子リストの生物学的解釈をする](http://togotv.dbcls.jp/20160927.html)
+      - まだシステムが不安定(?)で大量クエリ投げると結果が帰ってこない場合もある
       - Chromeだとjavascript周りでエラーが出て使えない(?)ことも
-  - [GeneSetDB](http://genesetdb.auckland.ac.nz/haeremai.html)
+　　　　　　　　-講習動画・資料あります　 [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
+    
+ - [GeneSetDB](http://genesetdb.auckland.ac.nz/haeremai.html)
     - 九州大学 荒木さんが開発｡ オークランド大学バイオインフォマティクス研究所が運用｡ 原著論文 [PMID: 23650583](http://www.ncbi.nlm.nih.gov/pubmed/23650583)
     - 医学・薬学分野に特化したデータベースを解析対象にすることができる
     - 統合TV あります → [GeneSetDBで遺伝子解析とエンリッチメント解析を行う](http://doi.org/10.7875/togotv.2016.002)
