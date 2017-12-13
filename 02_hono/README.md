@@ -75,7 +75,6 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
     - http://togotv.dbcls.jp/ja/
     - ![統合TVトップページ](http://i.gyazo.com/7090e688c2dd83c84e3bc2bf2eb3ff1d.png)
-
     - YouTube版もあります http://www.youtube.com/user/togotv/
     - ![統合TV YouTube支店](http://i.gyazo.com/1dce80b0a05a7de372415fa0b42a079c.png)
     - YouTubeのチャンネル登録をすると更新情報がメールで届きます。
@@ -124,17 +123,25 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 
 ## 個々の遺伝子の発現プロファイルを調べる
 ### [RefEx (Reference Expression dataset)](http://refex.dbcls.jp/)
-- ヒト、マウス、ラットの遺伝子発現情報リファレンスデータセット
-- [http://refex.dbcls.jp/](http://refex.dbcls.jp/)
+- 遺伝子発現解析の基準となるデータを快適に検索できるウェブツール
+    - [http://refex.dbcls.jp/](http://refex.dbcls.jp/)
+- 公共DBにある正常組織や細胞株における遺伝子発現データを再利用・整理
 - 4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた正常組織、初代培養細胞、細胞株における遺伝子発現データを検索、閲覧可能
     - 最近新たに、FANTOM5 CAGEデータが追加(ヒト556種、マウス286種)
     - 掲載しているデータやオリジナルデータなどの詳細については、[RefExについて](http://refex.dbcls.jp/about.php?lang=ja)
+- 論文出ました! (2017年8月)
+    - Ono H, Ogasawara O, Okubo K, Bono H  
+    - RefEx, a reference gene expression dataset as a web tool for the functional analysis of genes  
+    - Scientific Data, 4:170105  
+    - DOI: [10.1038/sdata.2017.105](http://doi.org/10.1038/sdata.2017.105)  
 - このツールでできること
     - 正常組織における遺伝子発現データを調べる
     - 測定手法による遺伝子発現量の差異を比較する
     - 組織特異的遺伝子をワンタッチで検索可能
     - 遺伝子発現解析などで見出された不詳な遺伝子群の機能および関係性を調べる
 - RefExで掲載されているデータはすべて再利用可能
+    - オリジナルデータの再処理方法の詳細は[GitHub](https://github.com/dbcls/RefEx/tree/master/Rawdata_Processing)に
+    - 再処理済みの発現データやサンプルアノテーション等のすべてのデータは[figshare](https://figshare.com/)に
     - 「The RefEx analysis」として論文に引用していただいた活用例
          - [Aberrant IDH3α expression promotes malignant tumor growth by inducing HIF-1-mediated metabolic reprogramming and angiogenesis, Oncogene, (22 December 2014) | doi:10.1038/onc.2014.411 @ Figure 6](http://www.nature.com/onc/journal/vaop/ncurrent/full/onc2014411a.html)
          - がん研究者が、発現解析実験で見出した数百個の治療標的・候補遺伝子の絞込みに使えないか検討した。
