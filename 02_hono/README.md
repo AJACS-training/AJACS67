@@ -74,7 +74,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 ### [統合TV](http://togotv.dbcls.jp/ja/)
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
     - http://togotv.dbcls.jp/ja/
-    - ![統合TVトップページ](https://i.gyazo.com/dddde578caafeb260abc939bab68adfb.png)
+    - ![統合TVトップページ](http://i.gyazo.com/7090e688c2dd83c84e3bc2bf2eb3ff1d.png)
 
     - YouTube版もあります　http://www.youtube.com/user/togotv/
     - ![統合TV YouTube支店](http://i.gyazo.com/1dce80b0a05a7de372415fa0b42a079c.png)
@@ -82,7 +82,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 
 - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
     - 1300本を超える動画が公開されており、YouTube版だけで のべ 900,000回以上 再生されています。(2017年11月末現在)
-    - ![https://gyazo.com/7090e688c2dd83c84e3bc2bf2eb3ff1d](http://i.gyazo.com/7090e688c2dd83c84e3bc2bf2eb3ff1d.png)
+    - ![https://gyazo.com/5af70dbedd2a56b2214b70028530cad2](http://i.gyazo.com/5af70dbedd2a56b2214b70028530cad2.png)
+  
 
 - 講義・講習などの参考資料や後輩指導の教材として利用できます。
     - 本講習中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
