@@ -91,7 +91,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 
 - 統合TVに掲載されているコンテンツについてご引用いただく際に、恒久的な URL として [DOI](https://ja.wikipedia.org/wiki/デジタルオブジェクト識別子) (Digital Object Identifier) を使用することができます。
 
-- 2014年8月以降に開催された過去の講習会の資料・テキストと動画が「[AJACS講習会資料](http://togotv.dbcls.jp/ja/ajacs_text.html)」で閲覧できるようになり、受講生の復習のみならず、初学者の学習教材としてご活用いただけます。
+- 2014年8月以降に開催された過去の講習会の資料・テキストと動画が「[講習会 実習資料 (AJACS)](http://togotv.dbcls.jp/ja/ajacs_text.html)」で閲覧できるようになり、受講生の復習のみならず、初学者の学習教材としてご活用いただけます。
 
 - お探しの動画が見つからない or 統合TV未掲載の場合は、[統合TV番組リクエストフォーム](http://togotv.dbcls.jp/ja/contact.html)へどうぞ!!
 
