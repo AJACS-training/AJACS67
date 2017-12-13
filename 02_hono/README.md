@@ -105,7 +105,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
     - [「塩基配列解析のためのデータベース・ウェブツール」(2015年9月AJACS伊予)](http://togotv.dbcls.jp/ja/ajacs2015033.html)
 
 - 遺伝子発現データを公共DBで検索・取得・解析する方法について
-    - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)
+    - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)　　
     - [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
 
 - 非モデル生物のデータをモデル生物のデータに見立てるためのID対応表づくりについて
@@ -322,8 +322,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
     - GOのエンリッチメント解析で階層的クラスタリングもできる
     - 統合TV あります → [Metascapeを使って、遺伝子リストの生物学的解釈をする](http://togotv.dbcls.jp/20160927.html)
       - まだシステムが不安定(?)で大量クエリ投げると結果が帰ってこない場合もある
-      - Chromeだとjavascript周りでエラーが出て使えない(?)ことも
-　　　　　　　　-講習動画・資料あります　 [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
+      - Chromeだとjavascript周りでエラーが出て使えない(?)ことも　　
+　　　　　　　　-　講習動画・資料あります　 [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
     
  - [GeneSetDB](http://genesetdb.auckland.ac.nz/haeremai.html)
     - 九州大学 荒木さんが開発｡ オークランド大学バイオインフォマティクス研究所が運用｡ 原著論文 [PMID: 23650583](http://www.ncbi.nlm.nih.gov/pubmed/23650583)
