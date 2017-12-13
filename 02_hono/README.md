@@ -12,7 +12,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 
 これは統合データベース講習会 AJACS下総「実験データの生物学的解釈をするための遺伝子発現DB・ウェブツールの使い方」の講習資料です。  
 この内容の続編として、AJACS御茶ノ水(2015年5月)における[応用・実践編](http://doi.org/10.7875/ajacs.2015.007) がありますので、こちらもあわせてご活用ください。  
-講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs67)です。 
+講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs67)です。
 
 ----
 
@@ -76,7 +76,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
     - http://togotv.dbcls.jp/ja/
     - ![統合TVトップページ](http://i.gyazo.com/7090e688c2dd83c84e3bc2bf2eb3ff1d.png)
 
-    - YouTube版もあります　http://www.youtube.com/user/togotv/
+    - YouTube版もあります http://www.youtube.com/user/togotv/
     - ![統合TV YouTube支店](http://i.gyazo.com/1dce80b0a05a7de372415fa0b42a079c.png)
     - YouTubeのチャンネル登録をすると更新情報がメールで届きます。
 
@@ -129,14 +129,17 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 - 4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた正常組織、初代培養細胞、細胞株における遺伝子発現データを検索、閲覧可能
     - 最近新たに、FANTOM5 CAGEデータが追加(ヒト556種、マウス286種)
     - 掲載しているデータやオリジナルデータなどの詳細については、[RefExについて](http://refex.dbcls.jp/about.php?lang=ja)
-- RefExで掲載されているデータはすべて再利用可能
-    - 「RefEx analysis」として論文に引用していただいたケースも
-         - [Aberrant IDH3α expression promotes malignant tumor growth by inducing HIF-1-mediated metabolic reprogramming and angiogenesis, Oncogene, (22 December 2014) | doi:10.1038/onc.2014.411](http://www.nature.com/onc/journal/vaop/ncurrent/full/onc2014411a.html)
 - このツールでできること
     - 正常組織における遺伝子発現データを調べる
     - 測定手法による遺伝子発現量の差異を比較する
     - 組織特異的遺伝子をワンタッチで検索可能
     - 遺伝子発現解析などで見出された不詳な遺伝子群の機能および関係性を調べる
+- RefExで掲載されているデータはすべて再利用可能
+    - 「The RefEx analysis」として論文に引用していただいた活用例
+         - [Aberrant IDH3α expression promotes malignant tumor growth by inducing HIF-1-mediated metabolic reprogramming and angiogenesis, Oncogene, (22 December 2014) | doi:10.1038/onc.2014.411 @ Figure 6](http://www.nature.com/onc/journal/vaop/ncurrent/full/onc2014411a.html)
+         - がん研究者が、発現解析実験で見出した数百個の治療標的・候補遺伝子の絞込みに使えないか検討した。
+         - これらの候補遺伝子の正常組織における発現量が低ければ、治療標的とした場合に悪影響・副作用が小さくなると仮説した。
+         - 実際に、これらの遺伝子の発現量をRefExで確認し、追加確認実験の優先順位付けを効率的に行うことができた。
 
 ----
 
