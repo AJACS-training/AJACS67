@@ -46,7 +46,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 - わからないことがあったら挙手にてスタッフにお知らせください。
     - 遠慮は無用です(そのための講習会です!)。おいてけぼりは楽しくありません。
 - 実験的な試みとしてWeb上で匿名で質問・コメントできるフォームを用意してみました。
-    - [goo.gl/slides/bza77j](http://goo.gl/slides/bza77j)
+    - [講師用](https://docs.google.com/a/dbcls.rois.ac.jp/presentation/d/1Buj93jSKB-tWU1F37ykVEuv7Bu_q6KE_4hqICRCpTk4/edit?usp=sharing)
+    - [goo.gl/slides/](http://goo.gl/slides/)
 
 ----
 
