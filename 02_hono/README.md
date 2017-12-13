@@ -134,6 +134,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
     - RefEx, a reference gene expression dataset as a web tool for the functional analysis of genes  
     - Scientific Data, 4:170105  
     - DOI: [10.1038/sdata.2017.105](http://doi.org/10.1038/sdata.2017.105)  
+    - [この論文に関する日本語のレビュー記事](http://first.lifesciencedb.jp/from_dbcls/e0002) @ [ライフサイエンス新着論文レビュー](http://first.lifesciencedb.jp/)
+    - Nature ダイジェスト著者インタビュー記事「[FANTOM5データを誰でも活用できる形に](https://www.natureasia.com/ja-jp/scientificdata/papers-from-japan/fantom5)」
 - このツールでできること
     - 正常組織における遺伝子発現データを調べる
     - 測定手法による遺伝子発現量の差異を比較する
