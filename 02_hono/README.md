@@ -1,4 +1,4 @@
-# AJACS下総　実験データの生物学的解釈をするための遺伝子発現DB・ウェブツールの使い方
+# AJACS下総 実験データの生物学的解釈をするための遺伝子発現DB・ウェブツールの使い方
 
 大学共同利用機関法人 情報・システム研究機構  
 データサイエンス共同利用基盤施設  
@@ -6,13 +6,13 @@
 [小野 浩雅](https://sites.google.com/a/dbcls.rois.ac.jp/hono/)  
 hono@dbcls.rois.ac.jp  
 2017年12月19日(火)
-AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール   
+AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 
 ----
 
-これは統合データベース講習会 AJACS下総「実験データの生物学的解釈をするための遺伝子発現DB・ウェブツールの使い方」の講習資料です。  
+これは統合データベース講習会 AJACS下総「実験データの生物学的解釈をするための遺伝子発現DB・ウェブツールの使い方」の講習資料です。  
 この内容の続編として、AJACS御茶ノ水(2015年5月)における[応用・実践編](http://doi.org/10.7875/ajacs.2015.007) がありますので、こちらもあわせてご活用ください。  
-講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs67)です。  
+講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs67)です。 
 
 ----
 
@@ -83,7 +83,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
     - 1300本を超える動画が公開されており、YouTube版だけで のべ 900,000回以上 再生されています。(2017年11月末現在)
     - ![https://gyazo.com/5af70dbedd2a56b2214b70028530cad2](http://i.gyazo.com/5af70dbedd2a56b2214b70028530cad2.png)
-  
+
 
 - 講義・講習などの参考資料や後輩指導の教材として利用できます。
     - 本講習中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
@@ -105,8 +105,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
     - [「塩基配列解析のためのデータベース・ウェブツール」(2015年9月AJACS伊予)](http://togotv.dbcls.jp/ja/ajacs2015033.html)
 
 - 遺伝子発現データを公共DBで検索・取得・解析する方法について
-    - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)　　
-    - [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
+    - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)
+    - [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
 
 - 非モデル生物のデータをモデル生物のデータに見立てるためのID対応表づくりについて
     - [「コマンドラインで遺伝子配列を解析する」（2012年7月）](http://motdb.dbcls.jp/?AJACS32%2Fbono)
@@ -242,7 +242,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 #### マイクロアレイデータの準備
 - サンプルデータとして、[NCBI GEO](http://www.ncbi.nlm.nih.gov/geo/)から取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。  
 
-     → [マル秘遺伝子リスト](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/hono/secret_list.txt)  （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
+     → [マル秘遺伝子リスト](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/hono/secret_list.txt)  （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 
 - このデータは、どのような実験から得られたデータなのか、どのように解釈できるのかをDAVIDを使って考察してみましょう！  
 
@@ -287,7 +287,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 
 ---
 
-[答え合わせ](https://github.com/AJACS-training/AJACS59/blob/master/hono/answer.md)
+[答え合わせ](https://github.com/AJACS-training/AJACS67/blob/master/hono/answer.md)
 
 ---
 
@@ -297,8 +297,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
 - 例題は、[GSE28619](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28619) をつかいます。
   - 健常者 vs アルコール性肝炎患者 の2群比較です。
   - 多重比較法（Benjamini & Hochberg）を指定して、有意水準1％未満かつ2倍以上発現差のあった遺伝子群のリストをあらかじめ用意しました。
-     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/hono/GEO2R_Ctrl.txt)
-     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS59/master/hono/GEO2R_AH.txt)
+     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/hono/GEO2R_Ctrl.txt)
+     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/hono/GEO2R_AH.txt)
      - (この遺伝子リストの作り方は、[AJACS御茶ノ水の回](http://doi.org/10.7875/ajacs.2015.007) で解説しています。)
 - DAVID 以外のツールを使ってみる
   - [GeneTrail2](https://genetrail2.bioinf.uni-sb.de/)
@@ -320,11 +320,9 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール  
     - IDリストのほかタイムコースなどの複数リストデータも使用可能
     - 複数リスト間のアノテーションについて差分表示が可能
     - GOのエンリッチメント解析で階層的クラスタリングもできる
-    - 統合TV あります → [Metascapeを使って、遺伝子リストの生物学的解釈をする](http://togotv.dbcls.jp/20160927.html)
-      - まだシステムが不安定(?)で大量クエリ投げると結果が帰ってこない場合もある
-      - Chromeだとjavascript周りでエラーが出て使えない(?)ことも　　
-　　　　　　　　-　講習動画・資料あります　 [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
-    
+    - 統合TV あります → [Metascapeを使って、遺伝子リストの生物学的解釈をする](http://togotv.dbcls.jp/20160927.html)
+    - 講習動画・資料あります  [「遺伝子発現DBを含む公共オミックスDBの使い方」(2017年8月AJACS河内)](http://togotv.dbcls.jp/ja/ajacs2017008.html)
+
  - [GeneSetDB](http://genesetdb.auckland.ac.nz/haeremai.html)
     - 九州大学 荒木さんが開発｡ オークランド大学バイオインフォマティクス研究所が運用｡ 原著論文 [PMID: 23650583](http://www.ncbi.nlm.nih.gov/pubmed/23650583)
     - 医学・薬学分野に特化したデータベースを解析対象にすることができる
