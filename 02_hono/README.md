@@ -302,7 +302,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 
 ---
 
-[答え合わせ](https://github.com/AJACS-training/AJACS67/blob/master/hono/answer.md)
+[答え合わせ](https://github.com/AJACS-training/AJACS67/blob/master/02_hono/answer.md)
 
 ---
 
