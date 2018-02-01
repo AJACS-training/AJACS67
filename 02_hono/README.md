@@ -47,7 +47,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
     - 遠慮は無用です(そのための講習会です!)。おいてけぼりは楽しくありません。
 - 実験的な試みとしてWeb上で匿名で質問・コメントできるフォームを用意してみました。
     - [講師用](https://docs.google.com/a/dbcls.rois.ac.jp/presentation/d/1Buj93jSKB-tWU1F37ykVEuv7Bu_q6KE_4hqICRCpTk4/edit?usp=sharing)
-    - [goo.gl/slides/](http://goo.gl/slides/)
+    - [受講者質問用フォーム](http://goo.gl/slides/67dj7a)(右クリックから「新しいタブで開く」推奨)    
 
 ----
 
@@ -257,7 +257,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 #### マイクロアレイデータの準備
 - サンプルデータとして、[NCBI GEO](http://www.ncbi.nlm.nih.gov/geo/)から取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。  
 
-     → [マル秘遺伝子リスト](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/hono/secret_list.txt)  （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
+     → [マル秘遺伝子リスト](https://github.com/AJACS-training/AJACS67/blob/master/02_hono/secret_list.txt)  （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 
 - このデータは、どのような実験から得られたデータなのか、どのように解釈できるのかをDAVIDを使って考察してみましょう！  
 
@@ -302,7 +302,7 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 
 ---
 
-[答え合わせ](https://github.com/AJACS-training/AJACS67/blob/master/hono/answer.md)
+[答え合わせ](https://github.com/AJACS-training/AJACS67/blob/master/02_hono/answer.md)
 
 ---
 
@@ -312,8 +312,8 @@ AJACS下総 @ 千葉大学ゐのはな同窓会館多目的ホール
 - 例題は、[GSE28619](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28619) をつかいます。
   - 健常者 vs アルコール性肝炎患者 の2群比較です。
   - 多重比較法（Benjamini & Hochberg）を指定して、有意水準1％未満かつ2倍以上発現差のあった遺伝子群のリストをあらかじめ用意しました。
-     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/hono/GEO2R_Ctrl.txt)
-     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/hono/GEO2R_AH.txt)
+     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/02_hono/GEO2R_Ctrl.txt)
+     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS67/master/02_hono/GEO2R_AH.txt)
      - (この遺伝子リストの作り方は、[AJACS御茶ノ水の回](http://doi.org/10.7875/ajacs.2015.007) で解説しています。)
 - DAVID 以外のツールを使ってみる
   - [GeneTrail2](https://genetrail2.bioinf.uni-sb.de/)
